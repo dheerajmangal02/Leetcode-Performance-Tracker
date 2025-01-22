@@ -1,2 +1,1 @@
-# Leetcode-Performance-Tracker
-My Second Project
+#Leetcode Performance Tracker
